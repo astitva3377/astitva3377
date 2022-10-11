@@ -1,10 +1,6 @@
 # Oh hello, join the party. &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png" height="50"> 
 ### `whoami`
 Welcome to my GitHub. I am Astitva Prakash, a Computer Science Bachelor's student at Manipal University, Jaipur. I like coding and have participated in its various fields such as App/Web, AI, Competitive Programming. My main field of interest is Cybersecurity and App/Web Dev.
-
-⚡ I'm looking to contribute to some full stack apps<br>
-⚡ I'm learning the MERN stack<br>
-⚡ Fun fact: I once tried to make an OS. It now rests with a Page Fault Error.
 <br><br>
 ### `Stuff I code with`&nbsp;&nbsp;&nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif" height="30">
 #### `Languages` 
